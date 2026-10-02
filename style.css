@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/unifrakturcook@5.3.0/index.css');
+@import "lucide-static/font/lucide.css";
+@import "animate.css";
+@import "@fontsource/unifrakturcook";
+@plugin "daisyui" {
+    themes: dracula;
+}
+body {
+  font-family: 'UnifrakturCook', serif;
+  font-weight: 700;
+  font-style: normal;
+}
